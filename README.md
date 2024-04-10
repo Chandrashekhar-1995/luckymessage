@@ -38,3 +38,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # Start
     - npx create-next-app@latest
+    - install mongoose
+    - create user model
+    - install zod
+    - signup schema (zod)
+    - verify schema (zod)
+    - signIn schema (zod)
+    - acceptMessage schema (zod)
+    - message schema (zod)

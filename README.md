@@ -41,8 +41,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     - install mongoose
     - create user model
     - install zod
-    - signup schema (zod)
-    - verify schema (zod)
-    - signIn schema (zod)
-    - acceptMessage schema (zod)
-    - message schema (zod)
+    - create zod schemas validation for (signup, verify, login, accept message, message)
+    - write db connection

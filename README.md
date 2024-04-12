@@ -43,3 +43,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     - install zod
     - create zod schemas validation for (signup, verify, login, accept message, message)
     - write db connection
+    - npm install resend
+    - npm i react-email
+    - create email templete for otp varification
+    - setupe mail

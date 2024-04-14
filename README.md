@@ -35,8 +35,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-
 # Start
+
     - npx create-next-app@latest
     - install mongoose
     - create user model
@@ -47,3 +47,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     - npm i react-email
     - create email templete for otp varification
     - setupe mail
+    - routes for email
+    - install bcryptjs
+    - signup and send email otp

@@ -50,3 +50,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     - routes for email
     - install bcryptjs
     - signup and send email otp
+    - install next-auth
+    - configure next auth login with Credentials
+    - setup client side

@@ -53,3 +53,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     - install next-auth
     - configure next auth login with Credentials
     - setup client side
+    - check username unique

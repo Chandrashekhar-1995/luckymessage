@@ -55,3 +55,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     - setup client side
     - check username unique
     - check verification code wrong or expire
+    - acceptins message status

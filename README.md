@@ -57,3 +57,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     - check verification code wrong or expire
     - acceptins message status
     - get message api
+    - send messages api

@@ -47,6 +47,13 @@ export async function GET(request: Request) {
             {status: 200}
         )
     } catch (error) {
-        
+        console.log("An unaccepted error occured", error)
+        return Response.json(
+            {
+                success: false,
+                message: "An unaccepted error occured"
+            },
+            {status: 500}
+        )
     }
 }

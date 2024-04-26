@@ -56,3 +56,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     - check username unique
     - check verification code wrong or expire
     - acceptins message status
+    - get message api

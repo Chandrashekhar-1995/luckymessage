@@ -58,3 +58,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     - acceptins message status
     - get message api
     - send messages api
+    - install ai openai
+    - add api key (from jmbd)
+    - open ai complete in backend

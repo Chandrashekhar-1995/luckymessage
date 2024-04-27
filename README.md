@@ -61,3 +61,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     - install ai openai
     - add api key (from jmbd)
     - open ai complete in backend
+    - npx shadcn-ui@latest init
+    - npx shadcn-ui@latest add form

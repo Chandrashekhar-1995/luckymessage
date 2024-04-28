@@ -63,3 +63,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     - open ai complete in backend
     - npx shadcn-ui@latest init
     - npx shadcn-ui@latest add form
+    - read docs https://usehooks-ts.com/
+    - npm install usehooks-ts
+    - npx shadcn-ui@latest add toast
+    - signup page done

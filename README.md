@@ -67,3 +67,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     - npm install usehooks-ts
     - npx shadcn-ui@latest add toast
     - signup page done
+    - sign in page

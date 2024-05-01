@@ -69,3 +69,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     - signup page done
     - sign in page
     - reorder files
+    - start creating dashboard
+    -- npx shadcn-ui@latest add separator
+    -- npx shadcn-ui@latest add switch
+    -- dashboard complete

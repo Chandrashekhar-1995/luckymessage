@@ -74,5 +74,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     -- npx shadcn-ui@latest add switch
     -- dashboard complete
     - create message Card
-    - start creating homepage
-    - npx shadcn-ui@latest add carousel
+    - add navbar and fix css
